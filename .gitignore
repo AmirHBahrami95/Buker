@@ -6,6 +6,11 @@ __pycache__/
 # C extensions
 *.so
 
+# custom (vim environemt)
+.ycm_extra_conf.py
+*.swp
+data/*
+
 # Distribution / packaging
 .Python
 build/
